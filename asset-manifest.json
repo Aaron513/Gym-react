@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Gym-react/static/css/main.e975b162.css",
+    "main.js": "/Gym-react/static/js/main.f9123451.js",
+    "static/js/787.9a61c2f0.chunk.js": "/Gym-react/static/js/787.9a61c2f0.chunk.js",
+    "static/media/background.jpg": "/Gym-react/static/media/background.32ff3c48cc28108edd59.jpg",
+    "static/media/strength.jpg": "/Gym-react/static/media/strength.b9594191aef889b162ff.jpg",
+    "static/media/logo.png": "/Gym-react/static/media/logo.bf47659aa05a5340b553.png",
+    "static/media/crossfit.webp": "/Gym-react/static/media/crossfit.66db8351003b0d9c7672.webp",
+    "index.html": "/Gym-react/index.html",
+    "main.e975b162.css.map": "/Gym-react/static/css/main.e975b162.css.map",
+    "main.f9123451.js.map": "/Gym-react/static/js/main.f9123451.js.map",
+    "787.9a61c2f0.chunk.js.map": "/Gym-react/static/js/787.9a61c2f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e975b162.css",
+    "static/js/main.f9123451.js"
+  ]
+}
